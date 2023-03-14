@@ -5,7 +5,9 @@ El projecte parteix de la intenció d'utilitzar les eines de la ciència de dade
 Ens basem ens els següents objectius:
 
 ·	Unificar totes les dades vinculades als usuaris, centrant-nos en les persones que es troben en cerca de feina.
+
 ·	Predir quan triga una persona a trobar feina, des de que entra al servei. 
+
 ·	Detectar millores en la recollida i gestió de les dades
 
 Per tal d'assolir els objectius hi ha diferents documents:
