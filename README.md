@@ -1,4 +1,4 @@
-# Projecte-final
+# Projecte final
 
 El projecte parteix de la intenció d'utilitzar les eines de la ciència de dades per donar més valor a les dades presents a l'entitat ACAPPS.
 
