@@ -25,3 +25,5 @@ En el notebook 3.SAES s'ha fet tot el procés de machine learning per a fer la p
 **Propostes de millor en la recollida i gestió de les dades.pdf** recull les propostes per a millorar la recollida i gestió de les dades
 
 **Paper.pdf** exposa de manera acadèmica el projecte
+
+**Presentació treball final It Academy.pdf** presentació del treball final
