@@ -22,7 +22,7 @@ En el notebook 3.SAES s'ha fet tot el procés de machine learning per a fer la p
 
 **Informe Dades ACAPPS.pdf** descriu l'informe entregat a l'entitat on recull què s'ha obtingut de les dades, així com propostes de millora i d'actuacions
 
-**Propostes de millor en la recollida i gestió de les dades.pdf** recull les propostes per a millorar la recollida i gestió de les dades
+**Propostes de millora.pdf** recull les propostes per a millorar la recollida i gestió de les dades
 
 **Paper.pdf** exposa de manera acadèmica el projecte
 
