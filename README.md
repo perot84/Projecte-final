@@ -27,3 +27,5 @@ En el notebook 3.SAES s'ha fet tot el procés de machine learning per a fer la p
 **Paper.pdf** exposa de manera acadèmica el projecte
 
 **Presentació treball final It Academy.pdf** presentació del treball final
+
+**Treball final.pbix** arxiu on es presenta el treball final en Power Bi de les dades tractades
