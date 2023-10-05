@@ -12,7 +12,7 @@ Ens basem ens els següents objectius:
 
 Per tal d'assolir els objectius hi ha diferents documents:
 
-**ACAPPS.ypnb **codi amb tot el procés de preprocesat, neteja de dades i predicció.
+**ACAPPS.ypnb** codi amb tot el procés de preprocesat, neteja de dades i predicció.
 
 **Informe ACAPPS.pdf** descriu l'informe entregat a l'entitat on recull què s'ha obtingut de les dades, així com propostes de millora i d'actuacions per a millorar la recollida i gestió de les dades
 
