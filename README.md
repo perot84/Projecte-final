@@ -18,8 +18,6 @@ En el notebook 2.Unit s'han unit els datasets i s'han creat 2 nous datasets
 
 En el notebook 3.SAES s'ha fet tot el procés de machine learning per a fer la predicció de la variable
 
-**dades_totals.csv** és el database resultant de la unió dels 7 datasets extrets del CRM de l'entitat
-
 **Informe Dades ACAPPS.pdf** descriu l'informe entregat a l'entitat on recull què s'ha obtingut de les dades, així com propostes de millora i d'actuacions
 
 **Propostes de millora.pdf** recull les propostes per a millorar la recollida i gestió de les dades
