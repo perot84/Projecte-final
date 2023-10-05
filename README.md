@@ -12,15 +12,9 @@ Ens basem ens els següents objectius:
 
 Per tal d'assolir els objectius hi ha diferents documents:
 
-En els 7 primers notebooks s'han recollit les dades de 7 diferents datasets i s'han preparat per a ser units.
+**Informe Dades ACAPPS.pdf**codi amb tot el procés de preprocesat, neteja de dades i predicció.
 
-En el notebook 2.Unit s'han unit els datasets i s'han creat 2 nous datasets
-
-En el notebook 3.SAES s'ha fet tot el procés de machine learning per a fer la predicció de la variable
-
-**Informe Dades ACAPPS.pdf** descriu l'informe entregat a l'entitat on recull què s'ha obtingut de les dades, així com propostes de millora i d'actuacions
-
-**Propostes de millora.pdf** recull les propostes per a millorar la recollida i gestió de les dades
+**Informe Dades ACAPPS.pdf** descriu l'informe entregat a l'entitat on recull què s'ha obtingut de les dades, així com propostes de millora i d'actuacions per a millorar la recollida i gestió de les dades
 
 **Paper.pdf** exposa de manera acadèmica el projecte
 
